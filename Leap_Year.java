@@ -17,5 +17,8 @@ public class Leap_Year
 		{
 			System.out.println("It is not a leap year");
 		}
+		System.out.println("Additional sentences");
+		System.out.println("Program for Github");
+		System.out.println("Sumedh Gajanan Nimbalkar");
 	}
 }

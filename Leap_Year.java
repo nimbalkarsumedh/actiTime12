@@ -20,6 +20,6 @@ public class Leap_Year
 		System.out.println("Additional sentences");
 		System.out.println("Program for Github");
 		System.out.println("Sumedh Gajanan Nimbalkar");
-	 System.out.println("1.Cloning 2.Pushing 3.Pulling");
+	    System.out.println("1.Cloning 2.Pushing 3.Pulling");
 	}
 }
